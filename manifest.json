@@ -1,7 +1,7 @@
 {
   "name": "Vendocine - Vending Machine",
   "short_name": "Vendocine",
-  "start_url": "/VNDOCINE0.4/Public/index.html",
+  "start_url": "/VNDOCINE0.4/index.html",
   "display": "standalone",
   "theme_color": "#2c3e50",
   "background_color": "#ffffff",
@@ -21,3 +21,4 @@
     }
   ]
 }
+
