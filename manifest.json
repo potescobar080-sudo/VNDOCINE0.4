@@ -1,0 +1,23 @@
+{
+  "name": "Vendocine - Vending Machine",
+  "short_name": "Vendocine",
+  "start_url": "/VNDOCINE0.4/Public/index.html",
+  "display": "standalone",
+  "theme_color": "#2c3e50",
+  "background_color": "#ffffff",
+  "scope": "/VNDOCINE0.4/",
+  "icons": [
+    {
+      "src": "/VNDOCINE0.4/icon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/VNDOCINE0.4/icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
